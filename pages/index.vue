@@ -48,9 +48,9 @@
             <img class="h-16 w-16" src="/assets/y2.png" alt="Your Company" />
             <div class="mt-24 sm:mt-32 lg:mt-16">
               <a href="#" class="inline-flex space-x-6">
-                <span class="rounded-full bg-purple-500/10 px-3 py-1 text-sm font-semibold leading-6 text-purple-400 ring-1 ring-inset ring-purple-500/20">Launching soon</span>
+                <span class="rounded-full bg-purple-500/10 px-3 py-1 text-sm font-semibold leading-6 text-purple-400 ring-1 ring-inset ring-purple-500/20">coming soon</span>
                 <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
-                  <span>We are in Beta version</span>
+                  <span>Beta version</span>
                   <ChevronRightIcon class="h-5 w-5 text-gray-500" aria-hidden="true" />
                 </span>
               </a>
@@ -105,7 +105,7 @@
               <component :is="item.icon" class="h-6 w-6" aria-hidden="true" />
             </a>
           </div>
-          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2020 Your Company, Inc. All rights reserved.</p>
+          <p class="mt-8 text-xs leading-5 text-gray-400 md:order-1 md:mt-0">&copy; 2024 Yasmine, Inc. All rights reserved.</p>
         </div>
       </div>
     </footer>
