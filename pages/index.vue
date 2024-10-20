@@ -82,7 +82,7 @@
             </div>
           </div>
         </div>
-      <div class="bg-transparent min-h-screen absolute top-[18%] right-[15%] lg:top-32 lg:right-[15rem]  flex items-center justify-center">
+      <div class="bg-transparent min-h-screen absolute top-[26%] right-[15%] lg:top-32 lg:right-[15rem]  flex items-center justify-center">
         <!-- Glass effect container -->
         <div class="glassmorphism flex justify-between bg-white/30 backdrop-blur-md p-10 rounded-3xl shadow-lg max-w-md text-center">
           <div>😊</div>
